@@ -1,0 +1,12 @@
+name: sim-environment
+channels:
+        - conda-forge
+        - bioconda
+dependencies:
+        - python
+        - samtools
+        - pindel
+        - pysam
+        - biopython
+        - pandas
+        - matplotlib
